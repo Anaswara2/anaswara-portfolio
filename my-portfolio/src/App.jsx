@@ -258,7 +258,7 @@ export default function App() {
               <div className="tl-card purple-tl">
                 <div className="tl-company">Baniyas Optics</div>
                 <div className="tl-role purple-role">Web Developer Intern - Hybrid (Sharjah)</div>
-                <div className="tl-date">Mar 2026 - May 2026</div>
+                <div className="tl-date">Feb 2026 - May 2026</div>
                 <ul>
                   <li>Led the design and implementation of a customer-centric web application for the optical store.</li>
                   <li>Managed end-to-end development, translating client requirements into UI/UX prototypes in Figma and handling backend integrations.</li>
